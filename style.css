@@ -315,11 +315,11 @@ textarea {
     justify-content: space-between;
 }
 .skill-progress{
-    width: 7rem;
-    height: 1.4rem;
+    width: 10rem;
+    height: 1.6rem;
     background-color: lightgrey;
-    border-radius: .8rem;
-    border:2px solid;
+    border-radius: 0.8rem;
+    border: 2px solid;
     margin: 4px;
 }
 
