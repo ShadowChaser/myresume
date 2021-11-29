@@ -308,6 +308,10 @@ textarea {
 
 
 /*Skills Section*/
+#skills{
+    height: 28rem;
+}
+
 .skills-display{
     width: 40%;
     display: flex;
