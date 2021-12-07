@@ -320,7 +320,7 @@ textarea {
 }
 .skill-progress{
     width: 10rem;
-    height: 1.6rem;
+    /*height: 1.6rem;*/
     background-color: lightgrey;
     border-radius: 0.8rem;
     border: 2px solid;
